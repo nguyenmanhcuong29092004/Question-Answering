@@ -32,5 +32,9 @@ Dự án được triển khai trên bộ dữ liệu **SQuAD 2.0** (Stanford Qu
    ```bash
    git clone <repo_url>
    cd <project_directory>
-2. 
+2. **Chạy trên môi trường anaconda**
+   ```bash
+   conda activate <username>
+   streamlit run retriever_and_demo.py
+
 
